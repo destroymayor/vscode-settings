@@ -1,0 +1,36 @@
+{
+  "recommendations": [
+    // my extensions
+    "2gua.rainbow-brackets",
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "lokalise.i18n-ally",
+    "naumovs.color-highlight",
+    "oderwat.indent-rainbow",
+    "pnp.polacode",
+    "steoates.autoimport",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "WakaTime.vscode-wakatime",
+    "znck.grammarly",
+    "Zignd.html-css-class-completion",
+
+    // themes & icons
+    "teabyii.ayu",
+    "miguelsolorio.min-theme",
+    "PKief.material-icon-theme",
+    "vscode-icons-team.vscode-icons",
+    "zhuangtongfa.material-theme",
+
+    // git
+    "eamodio.gitlens",
+    "GitHub.vscode-pull-request-github",
+    "mhutchie.git-graph"
+  ]
+}
