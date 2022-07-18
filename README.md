@@ -1,5 +1,5 @@
 
-<samp><b>Jared's Vs Code Settings</b></samp>
+<samp><b>Jared's VS Code Settings</b></samp>
 
 [`.vscode/setting.json`](./.vscode/setting.json)<br>
 [`.vscode/extensions.json`](./.vscode/extensions.json)<br>
