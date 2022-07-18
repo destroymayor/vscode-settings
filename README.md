@@ -1,7 +1,7 @@
 
 <samp><b>Jared's VS Code Settings</b></samp>
 
-[`.vscode/setting.json`](./.vscode/setting.json)<br>
+[`.vscode/setting.json`](./.vscode/settings.json)<br>
 [`.vscode/extensions.json`](./.vscode/extensions.json)<br>
 
 <br>
