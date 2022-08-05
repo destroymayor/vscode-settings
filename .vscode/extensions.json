@@ -15,17 +15,17 @@
     "pnp.polacode",
     "steoates.autoimport",
     "streetsidesoftware.code-spell-checker",
+    "styled-components.vscode-styled-components",
     "usernamehw.errorlens",
     "VisualStudioExptTeam.vscodeintellicode",
     "WakaTime.vscode-wakatime",
     "znck.grammarly",
-    "Zignd.html-css-class-completion",
 
     // themes & icons
-    "teabyii.ayu",
+    "antfu.icons-carbon",
+    "antfu.theme-vitesse",
     "miguelsolorio.min-theme",
     "PKief.material-icon-theme",
-    "vscode-icons-team.vscode-icons",
     "zhuangtongfa.material-theme",
 
     // git
